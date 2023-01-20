@@ -1,0 +1,15 @@
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\bin\Debug\net6.0\work 6.exe
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\bin\Debug\net6.0\work 6.deps.json
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\bin\Debug\net6.0\work 6.runtimeconfig.json
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\bin\Debug\net6.0\work 6.dll
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\bin\Debug\net6.0\work 6.pdb
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.csproj.AssemblyReference.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.AssemblyInfoInputs.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.AssemblyInfo.cs
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.csproj.CoreCompileInputs.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.dll
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\refint\work 6.dll
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.pdb
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\work 6.genruntimeconfig.cache
+C:\Users\ANATOLI\OneDrive\Рабочий стол\geek\lesson 1\work 6\obj\Debug\net6.0\ref\work 6.dll
